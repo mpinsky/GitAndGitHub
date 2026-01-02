@@ -1,0 +1,19 @@
+---
+title: "Example Quarto Document"
+author: "Malin Pinsky"
+date: 2025-01-02
+format: gfm
+---
+
+# Header 1
+
+## Header 2
+
+Some example text with _italics_ and __bold__ text.
+
+Code block to add 10+20
+```{r}
+10+20
+```
+
+Done!
